@@ -7,7 +7,8 @@
     "clean": "rimraf dist",
     "build:watch": "webpack --watch",
     "serve": "webpack serve",
-    "build": "npm run clean && webpack"
+    "build": "npm run clean && webpack",
+    "deploy": "npm run build && git subtree push --prefix dist origin gh-pages"
   },
   "keywords": [],
   "author": "",
