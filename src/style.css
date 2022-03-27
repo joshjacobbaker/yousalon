@@ -1,0 +1,8 @@
+.hello {
+  color: red;
+}
+
+.background {
+  background: url("../assets/sunset.png");
+  background-size: cover;
+}
