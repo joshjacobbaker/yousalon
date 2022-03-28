@@ -8,16 +8,19 @@
 4. BEM CSS Styles
 5. CSS Grid
 6. HTML Markdown
-7. HTML CSS Styles
-8. Convert HTML into React
-9. Create React Router
-10. Create Redux, context, and state hooks
-11. Add CSS animations
-12. Add React-Spring Animations
+7. Convert HTML into React
+8. Create Redux, context, and state hooks
+9. Add CSS animations
+10. Add React-Spring Animations
+11. SSR w/ React & ExpressJS
+    1. https://www.youtube.com/watch?v=NwyQONeqRXA
 
 ## Product Backlog Item
 
 # Sprint
+
+1. [x] HTML CSS Styles Reset
+2. [x] Create React Router
 
 ## Sprint Backlog
 

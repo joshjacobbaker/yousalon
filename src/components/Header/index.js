@@ -1,5 +1,5 @@
 import React from "react"
-import "./style.css"
+import "./styles.css"
 
 // import big from "../assets/big.jpg"
 // import small from "../assets/small.jpg"
